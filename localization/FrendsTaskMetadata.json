@@ -1,0 +1,7 @@
+﻿{
+  "Tasks": [
+    {
+      "TaskMethod": "Integrations.Localization.Tasks.LocalizationTasks.LocalizeText"
+    }
+  ]
+}

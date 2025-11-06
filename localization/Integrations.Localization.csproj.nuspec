@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+	<title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Initial release</releaseNotes>
+  </metadata>
+
+  <files>
+      <file src="FrendsTaskMetadata.json" target=""/>
+	  <file src="bin\release\sv-SE\localization.resources.dll" target="lib\net471\sv-SE" />
+	  <file src="bin\release\fi-FI\localization.resources.dll" target="lib\net471\fi-FI" />
+  </files>
+</package>
